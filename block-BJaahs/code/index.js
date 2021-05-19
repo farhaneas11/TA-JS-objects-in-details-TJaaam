@@ -22,3 +22,4 @@ let user2 = createData.data({
     options: ['Tashkent', 'Amaan', 'Kuwait City', 'Nairobi'],
     correctAnswerIndex: 1,
   });
+  console.log(user3.isAnswerCorrect(0));
