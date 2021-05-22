@@ -31,7 +31,7 @@ Create a function `PersonConstructor` that uses the `this` keyword to save a sin
 
 #### Challenge 2/3
 
-Create a function `personFromConstructor` that takes as input a `name` and an `age`. When called, the function will create person objects using the `new` keyword instead of the Object.create method.
+Create a function `personFromConstructor` that takes as input a `name` and an `age`. When called, the function will create person objects using the `new` keyword instead of the Object.create method.(prototype)
 
 #### Challenge 3/3
 
